@@ -1,5 +1,3 @@
-# Networking_cisco_AI
-Networking-only AI tutor powered by Google Gemini. Loads Cisco Packet Tracer (.pkt) labs, explains the topology, and checks device configs for mistakes.
 # 🌐 Networking AI Assistant
 
 **An AI tutor for computer networking that can also read your Cisco Packet Tracer labs.**
